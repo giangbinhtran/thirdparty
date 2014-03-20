@@ -6,10 +6,4 @@
   <name>3rd party</name>
   <layout>maven2</layout>
   <policy>release</policy>
-  <mirrors>
-    <mirror>
-      <id>https://github.com/giangbinhtran/maven</id>
-      <url>https://github.com/giangbinhtran/maven</url>
-    </mirror>
-  </mirrors>
 </repository-metadata>
