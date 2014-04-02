@@ -4,3 +4,4 @@
 # Do not edit, changes will be overwritten!
 /archetype-catalog.xml
 /de/l3s
+/edu/stanford
